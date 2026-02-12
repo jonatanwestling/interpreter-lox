@@ -8,8 +8,8 @@ To install and run the project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://git.cs.umu.se/courses/5dv086vt23
-   cd 5dv086vt23/hlox
+   git clone https://github.com/jonatanwestling/interpreter-lox.git
+   cd interpreter-lox
    ```
 
 2. **Compile the Interpreter**:
